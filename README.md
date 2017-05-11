@@ -10,5 +10,7 @@ In 50% of trials a tone is played concurrently with the visual presentation scre
 The experiment is comprised of 3 testing stages of around 10 minutes each (and will be run while recording MEG)
 
 PHASE 1: Participants are not informed of the presence of tones (to the visual task)
+
 PHASE 2: Participants are informed of presence of tones but told to ignore and do visual task
+
 PHASE 3: Participants must respond to the visual task first, before identifying which type of tone played
